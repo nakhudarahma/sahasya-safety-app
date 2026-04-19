@@ -1,8 +1,8 @@
-# Project SAHAS – Safety & Evidence
+# Project SAHASYA – Safety & Evidence
 
 **Intelligent Safety, Evidence Capture, and Anonymous Justice System**
 
-> "SAHAS doesn't just call for help — it ensures what happened cannot be denied."
+> "SAHASYA doesn't just call for help — it ensures what happened cannot be denied."
 
 ---
 
